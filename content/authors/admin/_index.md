@@ -39,10 +39,10 @@ education:
   courses:
     - course: Bachelor of Architecture
       institution: Kennesaw State University
-      year: August 2019 - May 2024
+      year: Aug 2019 - May 2024
     - course: Minor in Organizational and Professional Communications
       institution: Kennesaw State University
-      year: August 2022 - May 2024
+      year: Aug 2022 - May 2024
     
 
 # Skills
