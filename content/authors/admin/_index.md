@@ -6,8 +6,8 @@ title: JOHNSON
 name_pronunciation: ELIZABETH
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Elizabeth
+last_name: Johnson
 
 # Status emoji
 status:
