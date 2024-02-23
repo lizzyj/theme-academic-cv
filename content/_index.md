@@ -73,7 +73,6 @@ sections:
           company_logo: org-x
           location: Roswell
           date_start: '2022-03-01'
-          date_end: ''
           description:|2-
               Proactively anticipated and met the diverse needs of clients, while demonstrating strong interpersonal skills.
    
