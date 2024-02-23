@@ -1,9 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+title: My Selected Works
+summary: from the years 2022-2023
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -18,7 +15,7 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: file:///C:/Users/14045/Downloads/ProfessionalPorfolio_ElizabethJohnson2023.pdf
 url_slides: ''
 url_video: ''
 
