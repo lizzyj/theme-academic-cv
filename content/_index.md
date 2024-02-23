@@ -64,7 +64,7 @@ sections:
           location: Atlanta
           date_start: '2023-05-01'
           date_end: ''
-          description: |2-
+          description: 
           Assessed the extent of water damage and learned technical waterproofing details for remediation work.
           t
         - title: COORDINATOR + BANQUET SERVER
