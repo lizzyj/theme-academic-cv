@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: JOHNSON
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ELIZABETH
 
 # Full name (for SEO)
 first_name: Shiung Wu
