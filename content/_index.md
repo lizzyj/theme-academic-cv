@@ -127,7 +127,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Portfolio
+      title: PORTFOLIO
       filters:
         folders:
           - project
@@ -151,29 +151,10 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: contact
     id: contact
     content:
-      title: Contact Me
+      title: CONTACT ME
       subtitle:
       # Contact (add or remove contact options as necessary)
       email: elizmariejohnson@gmail.com
@@ -182,7 +163,7 @@ sections:
         region: Metro Atlanta Area
       contact_links:
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
     design:
       columns: '2'
 ---
