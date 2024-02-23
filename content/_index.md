@@ -56,7 +56,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:|2-
+      items:
         - title: COMMERCIAL DESIGNER + INTERN
           company: Jones Pierce Architects
           company_url: ''
@@ -65,7 +65,7 @@ sections:
           date_start: '2023-05-01'
           date_end: ''
           description:
-              *Assessed the extent of water damage and learned technical waterproofing details for remediation work.
+              t
         - title: COORDINATOR + BANQUET SERVER
           company: Events Catering
           company_url: ''
@@ -74,7 +74,7 @@ sections:
           date_start: '2022-03-01'
           date_end: ''
           description:|2-
-              *Proactively anticipated and met the diverse needs of clients, while demonstrating strong interpersonal skills.
+              t
    
   - block: accomplishments
     content:
