@@ -63,18 +63,24 @@ sections:
           company_logo: org-gc
           location: Atlanta
           date_start: '2023-05-01'
-          date_end:''
-          description:
-              t
-        - title: COORDINATOR + BANQUET SERVER
-          company: Events Catering
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
           company_logo: org-x
           location: Roswell
           date_start: '2022-03-01'
-          date_end:''
-          description:|2-
-              t
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Analysing
+              * Modelling
+              * Deploying
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
