@@ -70,7 +70,6 @@ sections:
               *Generating various calculations needed for zoning, planning and building department criteria.
               *Helped with marketing efforts to compile projects and relevant information for a new website.
               *Assisted with materials to be submitted for awards competitions.
-
         - title: COORDINATOR + BANQUET SERVER
           company: Events Catering
           company_url: ''
