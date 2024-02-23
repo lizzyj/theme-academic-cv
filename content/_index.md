@@ -65,7 +65,7 @@ sections:
           date_start: '2023-05-01'
           date_end: ''
           description: |2-
-              t
+              Assessed the extent of water damage and learned technical waterproofing details for remediation work.
     
         - title: COORDINATOR + BANQUET SERVER
           company: Events Catering
@@ -74,8 +74,8 @@ sections:
           location: Roswell
           date_start: '2022-03-01'
           date_end: ''
-          description:
-              t
+          description:|2-
+              Proactively anticipated and met the diverse needs of clients, while demonstrating strong interpersonal skills.
    
   - block: accomplishments
     content:
