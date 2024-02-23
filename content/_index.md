@@ -198,10 +198,8 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact Me
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: elizmariejohnson@gmail.com
       phone: (404)-543-4642
@@ -210,14 +208,6 @@ sections:
       contact_links:
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
