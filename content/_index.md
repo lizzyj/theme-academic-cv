@@ -65,11 +65,7 @@ sections:
           date_start: '2023-05-01'
           date_end: ''
           description: |2-
-              *Assessed the extent of water damage and learned technical waterproofing details for remediation work.
-              *Assisted in preparing Special Administrative Permit (SAP) documents that included life safety assessments of projects.
-              *Generating various calculations needed for zoning, planning and building department criteria.
-              *Helped with marketing efforts to compile projects and relevant information for a new website.
-              *Assisted with materials to be submitted for awards competitions.
+              t
     
         - title: COORDINATOR + BANQUET SERVER
           company: Events Catering
@@ -79,9 +75,7 @@ sections:
           date_start: '2022-03-01'
           date_end: ''
           description:
-              *Proactively anticipated and met the diverse needs of clients, while demonstrating strong interpersonal skills.
-              *Effectively communicated between different banquet teams, ensuring seamless coordination and collaboration.
-              *Contributed to the planning and execution of various events, showcasing organizational and logistical skills for event success.
+              t
    
   - block: accomplishments
     content:
