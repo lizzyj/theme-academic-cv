@@ -21,8 +21,8 @@ role: Commercial Designer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Let's Connect!
-    url: https://www.linkedin.com/in/elizmariejohnson/
+  - name:
+    
 
 # Short bio (displayed in user profile at end of posts)
 bio: Bringing dedication and commitment to details and client satisfaction as well as exceptional work ethic.
@@ -95,7 +95,7 @@ social:
     link: '/#contact'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/elizmariejohnson/
     display:
       header: true
   # Link to a PDF of your resume/CV.
