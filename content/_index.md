@@ -69,8 +69,8 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: COORDINATOR + BANQUET SERVER
+          company: Events Catering
           company_url: ''
           company_logo: org-x
           location: Roswell
@@ -78,7 +78,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Analysing
+              * Proactively anticipated and met the diverse needs of clients, while demonstrating strong interpersonal skills.
               * Modelling
               * Deploying
   - block: accomplishments
