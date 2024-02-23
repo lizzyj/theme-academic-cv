@@ -63,7 +63,7 @@ sections:
           company_logo: org-gc
           location: Atlanta
           date_start: '2023-05-01'
-          date_end: ''
+          date_end:''
           description:
               t
         - title: COORDINATOR + BANQUET SERVER
@@ -72,7 +72,7 @@ sections:
           company_logo: org-x
           location: Roswell
           date_start: '2022-03-01'
-          date_end: ''
+          date_end:''
           description:|2-
               t
   - block: accomplishments
