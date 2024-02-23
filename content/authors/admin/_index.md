@@ -25,8 +25,7 @@ organizations:
     url: https://www.linkedin.com/in/elizmariejohnson/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Bringing dedication and commitment to details and client satisfaction as well as exceptional work ethic.
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
@@ -120,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A 5th year architecture student seeking a full-time position in the related fields. Eager to learn and develop skills in the work environment. Proficiency in multiple modeling softwares and the Adobe suite, and talented in creating a welcoming atmosphere for clients and project teams. Bringing dedication and commitment to details and client satisfaction as well as exceptional work ethic.
 {style="text-align: justify;"}
