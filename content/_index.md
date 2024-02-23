@@ -65,7 +65,7 @@ sections:
           date_start: '2023-05-01'
           date_end: ''
           description: |2-
-              Assessed the extent of water damage and learned technical waterproofing details for remediation work.
+          Assessed the extent of water damage and learned technical waterproofing details for remediation work.
     
         - title: COORDINATOR + BANQUET SERVER
           company: Events Catering
