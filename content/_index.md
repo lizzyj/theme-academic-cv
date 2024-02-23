@@ -65,6 +65,7 @@ sections:
           date_start: '2023-05-01'
           date_end: ''
           description: |2-
+    
               *Assessed the extent of water damage and learned technical waterproofing details for remediation work.
               *Assisted in preparing Special Administrative Permit (SAP) documents that included life safety assessments of projects.
               *Generating various calculations needed for zoning, planning and building department criteria.
