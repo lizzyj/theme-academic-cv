@@ -10,10 +10,6 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: file:///C:/Users/14045/Downloads/ProfessionalPorfolio_ElizabethJohnson2023.pdf
 url_slides: ''
