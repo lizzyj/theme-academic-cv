@@ -28,22 +28,22 @@ organizations:
 bio: Bringing dedication and commitment to details and client satisfaction as well as exceptional work ethic.
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Traveling
+  - Reading
+  - Volunteering
+  - Writing
+  - Interior Design
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor of Architecture
+      institution: Kennesaw State University
+      year: August 2019 - May 2024
+    - course: Minor in Organizational and Professional Communications
+      institution: Kennesaw State University
+      year: August 2022 - May 2024
+    
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
