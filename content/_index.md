@@ -66,9 +66,9 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
+              * Assessed the extent of water damage and learned technical waterproofing details for remediation work.
+              * Assisted in preparing Special Administrative Permit (SAP) documents that included life safety assessments of projects.
+              * Generating various calculations needed for zoning, planning and building department criteria.
         - title: COORDINATOR + BANQUET SERVER
           company: Events Catering
           company_url: ''
@@ -79,8 +79,8 @@ sections:
           description: |2-
               Responsibilities include:
               * Proactively anticipated and met the diverse needs of clients, while demonstrating strong interpersonal skills.
-              * Modelling
-              * Deploying
+              * Effectively communicated between different banquet teams, ensuring seamless coordination and collaboration.
+              * Contributed to the planning and execution of various events, showcasing organizational and logistical skills for event success.
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
