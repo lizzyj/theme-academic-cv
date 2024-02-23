@@ -69,6 +69,8 @@ sections:
               * Assessed the extent of water damage and learned technical waterproofing details for remediation work.
               * Assisted in preparing Special Administrative Permit (SAP) documents that included life safety assessments of projects.
               * Generating various calculations needed for zoning, planning and building department criteria.
+              * Helped with marketing efforts to compile projects and relevant information for a new website.
+              * Assisted with materials to be submitted for awards competitions.
         - title: COORDINATOR + BANQUET SERVER
           company: Events Catering
           company_url: ''
